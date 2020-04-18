@@ -1,4 +1,4 @@
-# Canvas com o Kibana utilizando Http pooler
+# Canvas com o Kibana utilizando Http poller
 
 ## **Links Úteis**
 * [Instalar o ELKl](https://www.elastic.co/guide/en/elastic-stack/current/installing-elastic-stack.html)
